@@ -13,3 +13,46 @@ https://af.ayas.ir/hls2/aiosport.m3u8
 http://bblserver.ddns.net:1936/live/ksport/playlist.m3u8
 #EXTINF:0,Real Madrid tv
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:0,Sanetana tv
+http://49.12.133.216:8000/play/a001/index.m3u8
+#EXTINF:0,Santana Sport 2
+http://49.12.133.216:8000/play/a003/index.m3u8
+#EXTINF:-1,ATV
+
+http://49.12.133.216:8000/play/a007/index.m3u8
+
+#EXTINF:-1,H1
+
+http://49.12.133.216:8000/play/a008/index.m3u8
+
+#EXTINF:-1,Setanta_Sports_1_HD
+
+http://49.12.133.216:8000/play/a001/index.m3u8
+
+#EXTINF:-1,Setanta_Sports_2_HD
+
+http://49.12.133.216:8000/play/a003/index.m3u8
+
+#EXTINF:-1,Setanta_Sports_Eurazia
+
+http://49.12.133.216:8000/play/a002/index.m3u8
+
+#EXTINF:-1,Setanta_Sports_Ukraine
+
+http://49.12.133.216:8000/play/a005/index.m3u8
+
+#EXTINF:-1,Shant_HD
+
+http://49.12.133.216:8000/play/a006/index.m3u8
+
+#EXTINF:-1,Shant_Premium
+
+http://49.12.133.216:8000/play/a004/index.m3u8
+
+#EXTINF:-1,Xazar_TV_AZ
+
+http://49.12.133.216:8000/play/a00b/index.m3u8
+
+#EXTINF:-1,Армения ТВ
+
+http://49.12.133.216:8000/play/a00c/index.m3u8
